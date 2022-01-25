@@ -26,6 +26,7 @@ body {
   color: black;
   font-size: 24px;
   margin-bottom: 5px;
+  font-weight: bold;
 }
 .pic {
   width: 300px;
