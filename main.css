@@ -1,0 +1,57 @@
+body {
+  background: url(source/city.jpg);
+  background-repeat: repeat-x;
+}
+.contain {
+  border: 4px solid #9e9da6;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin: auto;
+  background: white;
+  max-width: 480px;
+}
+.contact {
+  width: 480px;
+  border: 4px solid #9e9da6;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background: white;
+  max-width: 100%;
+}
+.contact a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+.pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  max-width: 100%;
+}
+.block-info {
+  margin-top: 20px;
+}
+.soc {
+  width: 24%;
+  height: 100px;
+  display: inline-block;
+}
+.soc img {
+  width: 100%;
+}
+.description {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+.description p {
+  padding: 0;
+  margin: 16px 0;
+}
+.logo {
+  max-width: 100%;
+}
